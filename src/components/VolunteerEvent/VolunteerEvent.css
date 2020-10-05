@@ -1,0 +1,15 @@
+.img-container {
+    position: relative;
+    max-width: 700px; 
+    margin: 0 auto; 
+  }
+  
+  .img-container .content {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 88%;
+    padding: 20px; 
+  } 

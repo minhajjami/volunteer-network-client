@@ -1,0 +1,11 @@
+
+.navbar ul li{
+   padding-left: 60px;
+}
+.navbar ul li a{
+    font-weight: bolder;
+    color:black;
+}
+.bg-img-color{
+    width:120px;
+}
